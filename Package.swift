@@ -14,7 +14,7 @@
      targets: [
         .binaryTarget(
           name: "ScribeUpSDK",
-          path: "ScribeUpSDK.xcframework"
+          path: "./ScribeUpSDK.xcframework"
         ),
      ]
  )
